@@ -25,6 +25,7 @@ import Btn from './jsx_pract/btn_click'
 
 import Ternary1 from './jsx_pract/ternary1'
 import Ternary2 from './jsx_pract/Ternary2'
+import If_State from './jsx_pract/if_state'
 
 
 function App() {
@@ -33,8 +34,8 @@ function App() {
   return (
     <>
   
-      {/* <ComA />
-      <ComB /> */}
+      {/* <ComA /> */}
+      {/* <ComB /> */}
 
       {/* <Practice1/> */}
 
@@ -42,22 +43,23 @@ function App() {
 
       {/* <Var_Exp/> */}
 
-      {/* <Exp/>
+      {/* <Exp/> */}
 
-      <Exp2/> */}
+      {/* <Exp2/> */}
 
       {/* <Student1/> */}
 
-      {/* <Student2/>
+      {/* <Student2/> */}
 
-      <Std/> */}
+      {/* <Std/> */}
 
-      {/* <Cls/>
-      <Id/>
-      <Btn/> */}
+      {/* <Cls/> */}
+      {/* <Id/> */}
+      {/* <Btn/> */}
 
-      {/* <Ternary1/>
-      <Ternary2/> */}
+      {/* <Ternary1/> */}
+      {/* <Ternary2/> */}
+      <If_State/>
       
 
     </>
