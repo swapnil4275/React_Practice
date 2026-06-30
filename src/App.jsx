@@ -28,6 +28,10 @@ import Ternary2 from './jsx_pract/Ternary2'
 import If_State from './jsx_pract/if_state'
 import Ternary3 from './jsx_pract/Ternary3'
 
+import And from './jsx_pract/AND_op'
+import Map from './jsx_pract/map()'
+import Array from './jsx_pract/Array_map'
+
 
 function App() {
  
@@ -61,7 +65,12 @@ function App() {
       {/* <Ternary1/> */}
       {/* <Ternary2/> */}
       {/* <If_State/> */}
-      <Ternary3/>
+      {/* <Ternary3/> */}
+
+      {/* <And/> */}
+
+      {/* <Map/> */}
+      {/* <Array/> */}
       
 
     </>
