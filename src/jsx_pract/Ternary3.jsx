@@ -2,7 +2,7 @@
 
 function Ternary3() {
 
-    const isLogin = true;
+    const isLogin = false;
 
     return(
         <h1>{isLogin ? "Welcome" : "Please Login"}</h1>
