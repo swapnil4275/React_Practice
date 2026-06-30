@@ -26,6 +26,7 @@ import Btn from './jsx_pract/btn_click'
 import Ternary1 from './jsx_pract/ternary1'
 import Ternary2 from './jsx_pract/Ternary2'
 import If_State from './jsx_pract/if_state'
+import Ternary3 from './jsx_pract/Ternary3'
 
 
 function App() {
@@ -59,7 +60,8 @@ function App() {
 
       {/* <Ternary1/> */}
       {/* <Ternary2/> */}
-      <If_State/>
+      {/* <If_State/> */}
+      <Ternary3/>
       
 
     </>
